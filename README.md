@@ -1,1 +1,1 @@
-# LapTimeSimulator
+# 🏎️ LapTimeSimulator
